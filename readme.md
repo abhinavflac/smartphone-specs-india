@@ -125,7 +125,7 @@ smartphones-dataset/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/smartphones-dataset.git
+git clone https://github.com/abhinavflac/smartphones-dataset.git
 cd smartphones-dataset
 ```
 
@@ -313,7 +313,7 @@ You are free to use, modify, and distribute the data and code without restrictio
 
 ## 📧 Contact
 
-- **Kaggle**: [@githubmasterin](https://www.kaggle.com/githubmasterin)
+- **Kaggle**: [@abhinavflac](https://www.kaggle.com/githubmasterin)
 - **Dataset**: [Smartphones Cleaned Dataset](https://www.kaggle.com/datasets/githubmasterin/smartphones-cleaned-dataset)
 
 For questions or collaboration, feel free to open an issue!
